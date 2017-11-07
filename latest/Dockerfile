@@ -18,4 +18,4 @@ RUN  chmod u+x caddy
 
 EXPOSE 80 443 2015
 
-ENTRYPOINT [ "/srv/caddy/caddy" ]
+ENTRYPOINT [ "/srv/caddy" ]
