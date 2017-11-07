@@ -8,4 +8,5 @@ This image is available on [Docker Hub](https://hub.docker.com/r/tetafro/caddy/)
 
 | Tag    | Info
 | ------ | ---
+| 3.6    | Based on Alpine Linux 3.6
 | latest | Based on Alpine Linux latest
