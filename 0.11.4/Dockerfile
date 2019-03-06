@@ -13,4 +13,4 @@ COPY --from=build /caddy /usr/local/bin/caddy
 
 EXPOSE 80 443 2015
 
-ENTRYPOINT ["/usr/local/bin/caddy"]
+ENTRYPOINT ["caddy"]
