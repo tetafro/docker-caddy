@@ -19,3 +19,4 @@ docker run -d \
 | ------- | ---
 | v0.11.4 | Caddy 0.11.4 based on Alpine Linux 3.8
 | v1.0.3  | Caddy 1.0.3 based on Alpine Linux 3.10
+| v1.0.4  | Caddy 1.0.4 based on Alpine Linux 3.16
